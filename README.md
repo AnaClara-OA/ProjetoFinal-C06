@@ -1,0 +1,1 @@
+Precisamos do auxilio da IA para criar as threads já que era um assunto que nenhuma de nós duas estava dominando muito bem. Utilizamos o chatGPT como referencial para nos auxiliar com o que não estávamos conseguindo fazer nesse quesito. Assim como foi necessário seu auxílio na parte de guardar dados em um arquivo .txt
